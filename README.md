@@ -1,21 +1,19 @@
 Ben Winch
 
-Eireann Lea,
-Vale Road,
-Whitstable,
-Kent,
-CT5 4HY
+Eireann Lea,
+Vale Road,
+Whitstable,
+Kent,
+CT5 4HY
 07599796140 | ben.a.winch@gmail.com
 
-Introduction:
-
+Introduction:
 Current Software Engineering student at Canterbury Christ Church University with a strong interest in computing and old cars. I am ideally looking for part-time work in order to earn some money while studying. My spare time is usually spent either working on cars, researching something about cars, experimenting with computers (software and hardware) or learning about a variety of topics through YouTube videos. I am a quick learner and am adaptable to different scenarios or roles.
 
-Education:
-
-Canterbury Christ Church University - BEng Software Engineering 2022-2026
-Mascalls Academy - A Level Computer Science (B) 2020-2022
-Mascalls Academy - A Level Maths (C) 2020-2022
+Education:
+Canterbury Christ Church University - BEng Software Engineering 2022-2026
+Mascalls Academy - A Level Computer Science (B) 2020-2022
+Mascalls Academy - A Level Maths (C) 2020-2022
 Mascalls Academy - A Level Physics (D) 2020-2022
 
 Work Experience:
