@@ -10,7 +10,7 @@ CT5 4HY
 
 Introduction:
 
-Current Software Engineering student at Canterbury Christ Church University with a strong interest in computing and old cars. I am ideally looking for part-time work in order to earn some money while studying. My spare time is usually spent either working on cars, researching something about cars, experimenting with computers (software and hardware) or learning about a variety of topics through YouTube videos. I am a quick learner and am adaptable to different scenarios or roles.
+Current Software Engineering student at Canterbury Christ Church University with a strong interest in computing and old cars. My spare time is usually spent either working on cars, researching something about cars, experimenting with computers (software and hardware) or learning about a variety of topics through YouTube videos. I am a quick learner and am adaptable to different scenarios or roles.
 
 Education:
 
