@@ -8,16 +8,22 @@ CT5 4HY
 
 07599796140 | ben.a.winch@gmail.com
 
+
 Introduction:
 
 Current Software Engineering student at Canterbury Christ Church University with a strong interest in computing and old cars. My spare time is usually spent either working on cars, researching something about cars, experimenting with computers (software and hardware) or learning about a variety of topics through YouTube videos. I am a quick learner and am adaptable to different scenarios or roles.
 
+
 Education:
 
 Canterbury Christ Church University - BEng Software Engineering 2022-2026
+
 Mascalls Academy - A Level Computer Science (B) 2020-2022
+
 Mascalls Academy - A Level Maths (C) 2020-2022
+
 Mascalls Academy - A Level Physics (D) 2020-2022
+
 
 Work Experience:
 
@@ -40,11 +46,13 @@ IT Support (Temporary), Rendel LTD, Nov 2021 to Nov 2021
 * Rectify any problems with the equipment.
 * Within 3 days we managed to have around 30 desks functional and ready for users to work at.
 
+
 Additional Information:
 
 * I have started to learn Mandarin.
 * I restored a VW Golf Mk2 and brought it back to life, and I've thoroughly enjoyed using it since then.
 * I have been asked to be the official photographer at a VW event I attended last year.
+
 
 Interests/Hobbies:
 
